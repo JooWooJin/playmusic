@@ -8,7 +8,7 @@
     <List v-bind:sendList="getList" style="transform: translate(50%, 0%); width:60%;"></List>
     <Footer style="transform: translate(110%, 0%); width:45%;"></Footer>
     <controller style="transform: translate(110%, 0%); width:45%;"></controller>
-    <play-list style="transform: translate(50%, 0%); width:60%; height:300px"></play-list>
+    <play-list style="transform: translate(60%, 0%); width:50%; height:300px"></play-list>
   </div>
 </template>
 

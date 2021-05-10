@@ -30,7 +30,7 @@ export default {
 
 <style>
 div{
-    width : 90%;
+    width : 85%;
     border : 2px;
 }
 span{
